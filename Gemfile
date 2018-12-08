@@ -6,3 +6,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 gem 'faker', '~> 1.6', '>= 1.6.6'
+gem 'rubocop', '~> 0.61.1'
